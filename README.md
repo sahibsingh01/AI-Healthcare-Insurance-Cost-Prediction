@@ -396,8 +396,7 @@ Potential improvements for future versions include:
 | Data Processing   | Pandas, NumPy                                 |
 | Visualization     | Matplotlib, Seaborn                           |
 | Machine Learning  | Scikit-learn                                  |
-| Models            | Linear, Ridge, Lasso Regression               |
-| Model Persistence | Joblib                                        |
+| Models            | Linear, Ridge, Lasso Regression               |                                   |
 | Deployment/UI     | Streamlit                                     |
 | Development       | Jupyter Notebook, VS Code, AI-assisted coding |
 
